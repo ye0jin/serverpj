@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sro7AVsxpIUpgPTc4bbF5/3L2wB7ilHoIhHF4pAlYT4uybUkSNC5mJ38CCW2dQg3mCCC/it6ps5Ma7Hkip9e4g==",
+  "success": true,
+  "projectFilePath": "D:\\2024Server\\Proto11-ModuleUp\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512"
+  ],
+  "logs": []
+}
